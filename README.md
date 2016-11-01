@@ -1,4 +1,4 @@
 # hello-world
-This is the demo reposy for Git
-Hey, it's nice to use Github again. 
-This is a new comment.
+This is the demo repository for using Git and Github.
+It contains some simple files that were created and moved around.
+
